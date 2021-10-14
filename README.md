@@ -1,2 +1,2 @@
 # dev-helper
-Bot Help Developers
+Commands For Developers
